@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FMTools"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "my tools for all."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/FMTools.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/fanmaoyu/FMTools.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
